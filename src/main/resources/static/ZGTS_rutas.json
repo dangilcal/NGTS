@@ -1,74 +1,72 @@
-{
-    "rutas": [
-        {
-            "Origen": "Logroño",
-            "Destino": "Zaragoza",
-            "Coste": 4
-        },
-        {
-            "Origen": "Logroño",
-            "Destino": "Teruel",
-            "Coste": 6
-        },
-        {
-            "Origen": "Logroño",
-            "Destino": "Madrid",
-            "Coste": 8
-        },
-        {
-            "Origen": "Zaragoza",
-            "Destino": "Teruel",
-            "Coste": 2
-        },
-        {
-            "Origen": "Zaragoza",
-            "Destino": "Lleida",
-            "Coste": 2
-        },
-        {
-            "Origen": "Teruel",
-            "Destino": "Madrid",
-            "Coste": 3
-        },
-        {
-            "Origen": "Teruel",
-            "Destino": "Lleida",
-            "Coste": 5
-        },
-        {
-            "Origen": "Teruel",
-            "Destino": "Alicante",
-            "Coste": 7
-        },
-        {
-            "Origen": "Lleida",
-            "Destino": "Castellón",
-            "Coste": 4
-        },
-        {
-            "Origen": "Lleida",
-            "Destino": "Segovia",
-            "Coste": 8
-        },
-        {
-            "Origen": "Alicante",
-            "Destino": "Castellón",
-            "Coste": 3
-        },
-        {
-            "Origen": "Alicante",
-            "Destino": "Ciudad Real",
-            "Coste": 7
-        },
-        {
-            "Origen": "Castellón",
-            "Destino": "Ciudad Real",
-            "Coste": 6
-        },
-        {
-            "Origen": "Segovia",
-            "Destino": "Ciudad Real",
-            "Coste": 4
-        }
-    ]
-}
+[
+	{
+		"origen": "Logroño",
+		"destino": "Zaragoza",
+		"coste": 4
+	},
+	{
+		"origen": "Logroño",
+		"destino": "Teruel",
+		"coste": 6
+	},
+	{
+		"origen": "Logroño",
+		"destino": "Madrid",
+		"coste": 8
+	},
+	{
+		"origen": "Zaragoza",
+		"destino": "Teruel",
+		"coste": 2
+	},
+	{
+		"origen": "Zaragoza",
+		"destino": "Lleida",
+		"coste": 2
+	},
+	{
+		"origen": "Teruel",
+		"destino": "Madrid",
+		"coste": 3
+	},
+	{
+		"origen": "Teruel",
+		"destino": "Lleida",
+		"coste": 5
+	},
+	{
+		"origen": "Teruel",
+		"destino": "Alicante",
+		"coste": 7
+	},
+	{
+		"origen": "Lleida",
+		"destino": "Castellón",
+		"coste": 4
+	},
+	{
+		"origen": "Lleida",
+		"destino": "Segovia",
+		"coste": 8
+	},
+	{
+		"origen": "Alicante",
+		"destino": "Castellón",
+		"coste": 3
+	},
+	{
+		"origen": "Alicante",
+		"destino": "Ciudad Real",
+		"coste": 7
+	},
+	{
+		"origen": "Castellón",
+		"destino": "Ciudad Real",
+		"coste": 6
+	},
+	{
+		"origen": "Segovia",
+		"destino": "Ciudad Real",
+		"coste": 4
+	}
+]
